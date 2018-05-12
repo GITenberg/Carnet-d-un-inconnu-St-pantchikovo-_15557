@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/314
     wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15557#Carnet-d-un-inconnu-St-pantchikovo-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-04-05'
 gutenberg_type: Text
