@@ -1,0 +1,49 @@
+_repo: Carnet-d-un-inconnu-St-pantchikovo-_15557
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Torquet, Charles
+    gutenberg_agent_id: '9085'
+    url: http://www.gutenberg.org/2009/agents/9085
+  - agent_name: Binshtok, V. L.
+    alias: Bienstock, J. W.
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '39107'
+    url: http://www.gutenberg.org/2009/agents/39107
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fiodor
+    - Достоевский, Фёдор Михайлович
+    - Dostoevsky, Fyodor
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15557'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Russia -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Impostors and imposture -- Fiction'
+title: 'Carnet d''un inconnu
+
+  (Stépantchikovo)'
+url: http://www.gutenberg.org/ebooks/15557
